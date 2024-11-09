@@ -1,0 +1,2 @@
+First Line in ReadAppend fileFirst Line in ReadAppend fileAnother Line added to readAppend File Cause File is opened in a+ mode
+New Line Text Added in a+ Mode
